@@ -13,9 +13,9 @@ List out the candidate who were participated the election and the total number o
 1. Total Votes in the Colorado Board of Elections: 369,711
 
 2. Votes by County:
-   A) Jefferson: 10.5% (38,855)
-   B) Denver: 82.8% (306,055)
-   C) Arapahoe: 6.7% (24,801)
+ - Jefferson: 10.5% (38,855)
+ - Denver: 82.8% (306,055)
+ - Arapahoe: 6.7% (24,801)
 
 3. Largest County Voter Turnout: Denver
 
