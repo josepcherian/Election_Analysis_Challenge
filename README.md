@@ -20,14 +20,14 @@ List out the candidate who were participated the election and the total number o
 3. Largest County Voter Turnout: Denver
 
 4. Total votes for the Candidate:
-   A) Charles Casper Stockham: 23.0% (85,213)
-   B) Diana DeGette: 73.8% (272,892)
-   C) Raymon Anthony Doane: 3.1% (11,606)
+ - Charles Casper Stockham: 23.0% (85,213)
+ - Diana DeGette: 73.8% (272,892)
+ - Raymon Anthony Doane: 3.1% (11,606)
 
 5. Declare the Winner of the Election: 
-   Winner: Diana DeGette
-   Vote Count: 272,892
-   Percentage: 73.8%
+ -  Winner: Diana DeGette
+ -  Vote Count: 272,892
+ -  Percentage: 73.8%
  
 Total votes for the Colorado Board of Elections was 369,711, Denver County had the highest voter turnout, and the winner of the election is Diana DeGette with 272,892 votes with a majority of 73.8% of all votes, popular majority criteria of greater than or equal to 50.1%. 
  
