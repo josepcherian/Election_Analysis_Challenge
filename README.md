@@ -34,3 +34,10 @@ Total votes for the Colorado Board of Elections was 369,711, Denver County had t
 ## Summary of the election audit 
 The winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 50.1%.  This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria.  
 A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes.  With these 2 changes to the script, perhaps the election commission would consider a business proposal to make these two adjustments, and the script could calculate almost any election.  
+
+## Terminal Printout of Results
+![Pic 1](https://github.com/josepcherian/Election_Analysis_Challenge/blob/main/Terminal_Results.PNG)
+
+
+## Text File Printout of Results
+![Pic 2](https://github.com/josepcherian/Election_Analysis_Challenge/blob/main/Election_Results_txt.PNG)
